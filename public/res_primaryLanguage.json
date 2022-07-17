@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Isaiah Keller. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Hello, my name is Isaiah.  I am a Front End Developer with an eclectic background.  I have worked as an Intellegence Analyst in the Army and have degrees in Psychology and Sociology.  I’m looking for a position that can make use of my varied skill-set and help me grow as a developer.  <br/>  I'm working with newest front-end frameworks like Angular, React and Vue. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -12,13 +12,12 @@
     "projects": [
       {
         "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "startDate": "Unknown",
+        "description": "Pic by Arjan Stalpers on Unsplash",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/arjan-stalpers-8-sgismcDAQ-unsplash.jpg"
         ],
-        "url": "",
+        "url": "https://unsplash.com/photos/8-sgismcDAQ",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,34 +34,36 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Zombie Survivor",
+        "startDate": "2022",
+        "description": "This was a team project and my first foray into game development.  We used vanilla JavaScript instead of using a I handled the sprite animation and movement.  ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/zombie-survivor.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ijkeller/Zombie-Survivor",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Cute Puppy",
+        "startDate": "Unknown",
+        "description": "Photo by Stephanie Cook on Unsplash",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/stephanie-cook-0yHhzZi2wPI-unsplash.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://unsplash.com/photos/0yHhzZi2wPI",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
